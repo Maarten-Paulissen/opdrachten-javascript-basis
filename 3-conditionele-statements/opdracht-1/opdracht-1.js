@@ -7,4 +7,4 @@ function groet(tijd) {
   } else if (tijd >= 18) return "Goedeavond";
 }
 
-console.log(groet(14));
+console.log(groet(21));
