@@ -1,5 +1,5 @@
 function vermenigvuldig(x, y) {
-  let product = x * y;
+  const product = x * y;
   return product;
 }
 
